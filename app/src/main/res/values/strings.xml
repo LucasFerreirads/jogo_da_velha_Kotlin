@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jogo da Velha</string>
+
+    <string-array name="dificuldades">
+        <item>Fácil</item>
+        <item>Médio</item>
+        <item>Díficil</item>
+        <item>Extremo</item>
+    </string-array>
+</resources>
